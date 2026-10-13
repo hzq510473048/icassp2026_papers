@@ -1,0 +1,717 @@
+[
+  {
+    "index": 153,
+    "title": "Adaptive Compressed Integrate-and-Fire Time Encoding Machine"
+  },
+  {
+    "index": 154,
+    "title": "Self-Calibrating Integrate-and-Fire Time Encoding Machine"
+  },
+  {
+    "index": 155,
+    "title": "Near-Optimal Online Gain Control for Modulo Analog-to-Digital Converters"
+  },
+  {
+    "index": 157,
+    "title": "OptimUS: Optimization-Based Unlimited Sampling Algorithm"
+  },
+  {
+    "index": 158,
+    "title": "Sub-Nyquist Frequency Estimation via Amplitude-Encoding Filters"
+  },
+  {
+    "index": 160,
+    "title": "Latent-Space Metrics for Complex-Valued VAE Out-Of-Distribution Detection under Radar Clutter"
+  },
+  {
+    "index": 384,
+    "title": "FC-VFI: Faithful and Consistent Video Frame Interpolation for High-FPS Slow Motion Video Generation"
+  },
+  {
+    "index": 410,
+    "title": "XAI-Pruner: Explainability-Driven Pruning of CNN and Transformer"
+  },
+  {
+    "index": 475,
+    "title": "Ultralight IPM-DAE: An Ultra-Lightweight ECG Denoising Autoencoder Via Parallel Mamba and Multi-Scale Fusion"
+  },
+  {
+    "index": 482,
+    "title": "Deep Large-Margin ℓp-SVDD with CNN Feature Learning for Novelty Detection",
+    "reason": "15分钟内未收到有效ZIP，等待批量流程结束后核验"
+  },
+  {
+    "index": 1105,
+    "title": "ℓ0-ESP: Efficient Structured Pruning for Convolutional Neural Network Compression Based on ℓ0-Norm Optimization",
+    "reason": "15分钟内未收到有效ZIP，等待批量流程结束后核验"
+  },
+  {
+    "index": 2141,
+    "title": "Free2frame: A Training-Free Framework for Video Understanding with Memory Boosting"
+  },
+  {
+    "index": 3122,
+    "title": "AFT: An Exemplar-Free Class Incremental Learning Method for Environmental Sound Classification"
+  },
+  {
+    "index": 3430,
+    "title": "Exploiting Latent and Implicit Chain of Thought for Efficient Multi-Hop Question Answering"
+  },
+  {
+    "index": 3572,
+    "title": "Frontend Token Enhancement for Token-Based Speech Recognition"
+  },
+  {
+    "index": 3574,
+    "title": "Leveraging Segment-Level Speech Representations for LLM-Based Speech Recognition"
+  },
+  {
+    "index": 3575,
+    "title": "Exploring SSL Discrete Tokens for Multilingual Automatic Speech Recognition"
+  },
+  {
+    "index": 3577,
+    "title": "BEST-STD 2.0: Balanced and Efficient Speech Tokenizer for Spoken Term Detection"
+  },
+  {
+    "index": 3578,
+    "title": "Reading Between the Waves: Robust Topic Segmentation Using Inter-Sentence Audio Features"
+  },
+  {
+    "index": 3579,
+    "title": "EchoRAG: A Two-Stage Framework for Audio-Text Retrieval and Temporal Grounding"
+  },
+  {
+    "index": 3583,
+    "title": "Improving Cross-Domain Generalization of Lightweight Transformers for Named Entity Recognition Using Self-Training"
+  },
+  {
+    "index": 3665,
+    "title": "Learning to Align with Unbalanced Optimal Transport in Linguistic Knowledge Transfer for ASR"
+  },
+  {
+    "index": 3669,
+    "title": "MNV-17: A High-Quality Performative Mandarin Dataset for Nonverbal Vocalization Recognition in Speech"
+  },
+  {
+    "index": 3774,
+    "title": "Scale: Semantic Chunking and Label-Delay Engine For Streaming Speech-LLM"
+  },
+  {
+    "index": 3776,
+    "title": "XI+: Uncertainty Supervision for Robust Speaker Embedding"
+  },
+  {
+    "index": 3778,
+    "title": "Uncertainty Factorization with Linear-Time Sequential Modeling for Speaker Embedding"
+  },
+  {
+    "index": 3790,
+    "title": "JUND-F0: A Novel Deep Learning Framework for Joint Unvoiced/Voiced Detection And F0 Estimation"
+  },
+  {
+    "index": 4023,
+    "title": "Sliding-Cache VLA: Training-Free Acceleration of Vision Language Action Models via Foreground-Background Decoupling"
+  },
+  {
+    "index": 4024,
+    "title": "LVD-GS: Gaussian Splatting Slam for Dynamic Scenes via Hierarchical Explicit-Implicit Representation Collaboration Rendering"
+  },
+  {
+    "index": 4026,
+    "title": "SPOC: Safety-Aware Planning Under Partial Observability and Physical Constraints"
+  },
+  {
+    "index": 4028,
+    "title": "LYAPUNOV-Constrained Integral Reinforcement Learning for Stable Admittance Control in Non-Rigid Environments"
+  },
+  {
+    "index": 4029,
+    "title": "MSNav: Zero-Shot Vision-And-Language Navigation with Dynamic Memory and LLM Spatial Reasoning"
+  },
+  {
+    "index": 4052,
+    "title": "ENHF-YOLO: Enhanced High-Frequency Domain Feature Extraction of Small Targets in Remote Sensing"
+  },
+  {
+    "index": 4054,
+    "title": "AUTOACC: LLM-Driven Irregular Operator Optimization For Inference Acceleration On RISC-V Edge Devices"
+  },
+  {
+    "index": 4055,
+    "title": "PC2-MTO: A Principal Component Clustering Approach for Multi-Task Offloading Optimization in IoV"
+  },
+  {
+    "index": 4056,
+    "title": "A Game-Theoretic Approach for Distributed MEC-Enabled Collaborative Inference in AIGC Networks"
+  },
+  {
+    "index": 4061,
+    "title": "Enhanced Cross-Medium Communication Using Multi-Sensor Fusion and Kalman Filtering",
+    "reason": "15分钟内未收到有效ZIP，等待批量流程结束后核验"
+  },
+  {
+    "index": 4062,
+    "title": "Information-Seeking Transmit Beamforming for Cognitive Ultrasound",
+    "reason": "15分钟内未收到有效ZIP，等待批量流程结束后核验"
+  },
+  {
+    "index": 4063,
+    "title": "SAFE-IMM: Robust and Lightweight RADAR-Based Object Tracking on Mobile Platforms",
+    "reason": "15分钟内未收到有效ZIP，等待批量流程结束后核验"
+  },
+  {
+    "index": 4064,
+    "title": "Detection and Angle Estimation in Colocated Mimo Radar in the Presence of Grating Lobes",
+    "reason": "15分钟内未收到有效ZIP，等待批量流程结束后核验"
+  },
+  {
+    "index": 4065,
+    "title": "WTRSS: Unleashing the Power of Wavelet Transform in Radar Semantic Segmentation",
+    "reason": "15分钟内未收到有效ZIP，等待批量流程结束后核验"
+  },
+  {
+    "index": 4066,
+    "title": "Analytical Framework for Wireless Localisation using Terahertz Backscattering Tags",
+    "reason": "15分钟内未收到有效ZIP，等待批量流程结束后核验"
+  },
+  {
+    "index": 4067,
+    "title": "Heatmap-to-SMPL Multi-View Radar Transformer for Multi-Person 3D Pose Estimation",
+    "reason": "15分钟内未收到有效ZIP，等待批量流程结束后核验"
+  },
+  {
+    "index": 4068,
+    "title": "A Maritime Small Target Detection Method using Random Forest with KMD Feature Enhancement and Cost-Sensitive Learning",
+    "reason": "15分钟内未收到有效ZIP，等待批量流程结束后核验"
+  },
+  {
+    "index": 4069,
+    "title": "Transponder-Assisted Direct Tracking of Time-Varying Emitters under Extreme Blockage",
+    "reason": "15分钟内未收到有效ZIP，等待批量流程结束后核验"
+  },
+  {
+    "index": 4070,
+    "title": "MUSIC-guided Point-Scatterer Attention for SAR Super-Resolution",
+    "reason": "15分钟内未收到有效ZIP，等待批量流程结束后核验"
+  },
+  {
+    "index": 4071,
+    "title": "AR-LIF: Adaptive Reset Leaky Integrate-And-Fire Neuron for Spiking Neural Networks",
+    "reason": "15分钟内未收到有效ZIP，等待批量流程结束后核验"
+  },
+  {
+    "index": 4072,
+    "title": "DFA-SNN: Dual-Frequency Attention Module for Spiking Neural Networks",
+    "reason": "15分钟内未收到有效ZIP，等待批量流程结束后核验"
+  },
+  {
+    "index": 4073,
+    "title": "PSQ-PMC: A Hardware-Friendly Quantization Scheme for Spike-Based Neural Radiance",
+    "reason": "15分钟内未收到有效ZIP，等待批量流程结束后核验"
+  },
+  {
+    "index": 4074,
+    "title": "SGTE-SNN: Similarity-Guided Temporal Encoding for Radar Emitter Denoising and Recognition",
+    "reason": "15分钟内未收到有效ZIP，等待批量流程结束后核验"
+  },
+  {
+    "index": 4075,
+    "title": "Spatiotemporal Gradient Decoupling: Advancing Online Training Of Recurrent Spiking Neural Networks",
+    "reason": "15分钟内未收到有效ZIP，等待批量流程结束后核验"
+  },
+  {
+    "index": 4076,
+    "title": "Scale-Covariant Spiking Wavelets",
+    "reason": "15分钟内未收到有效ZIP，等待批量流程结束后核验"
+  },
+  {
+    "index": 4077,
+    "title": "ITD-Aware Binaural Spiking Networks for Sound Source Localization",
+    "reason": "15分钟内未收到有效ZIP，等待批量流程结束后核验"
+  },
+  {
+    "index": 4078,
+    "title": "On The Sensitivity of Firing Rate-Based Federated Spiking Neural Networks to Differential Privacy",
+    "reason": "15分钟内未收到有效ZIP，等待批量流程结束后核验"
+  },
+  {
+    "index": 4079,
+    "title": "MAR: Efficient Large Language Models Via Module-Aware Architecture Refinement",
+    "reason": "15分钟内未收到有效ZIP，等待批量流程结束后核验"
+  },
+  {
+    "index": 4080,
+    "title": "FLAME: Empowering Frozen LLMS for Knowledge Graph Completion",
+    "reason": "15分钟内未收到有效ZIP，等待批量流程结束后核验"
+  },
+  {
+    "index": 4168,
+    "title": "Gridless DoA Estimation for Large-Scale Wideband Models: A Nonconvex Factored ℓ0 Atomic Norm Approach",
+    "reason": "15分钟内未收到有效ZIP，等待批量流程结束后核验"
+  },
+  {
+    "index": 4294,
+    "title": "Scalable LLM-Augmented DRL with Context-Aware Prompt Learning for O-RAN Slicing"
+  },
+  {
+    "index": 4308,
+    "title": "EM-MAMP: Low-Complexity Signal Recovery with Parameter Learning"
+  },
+  {
+    "index": 4311,
+    "title": "Multi-User Channel Estimation With One-Bit ADCS: A Semi-Blind Approach"
+  },
+  {
+    "index": 4313,
+    "title": "Semantic Pilot Design for Data-Aided Channel Estimation Using A Large Language Model"
+  },
+  {
+    "index": 4316,
+    "title": "Impact of Quantization in Near-Field Channel Modeling"
+  },
+  {
+    "index": 4317,
+    "title": "Near-Field Channel Estimation and Environment Mapping: Localization of Reflectors and Scatterers"
+  },
+  {
+    "index": 4318,
+    "title": "Dual-Model Information-Based CSI Reconstruction in Hybrid Beamforming MIMO-OFDM Systems"
+  },
+  {
+    "index": 4327,
+    "title": "Direct Position Determination Method Based on Sparse Spectrum Data"
+  },
+  {
+    "index": 4330,
+    "title": "Deep Unfolded Superiorized POCS for Robust Joint Transmission under Phase Misalignment"
+  },
+  {
+    "index": 4331,
+    "title": "TRJSCC: Text-Guided ROI-Aware Deep Joint Source-Channel Coding"
+  },
+  {
+    "index": 4335,
+    "title": "Multiantenna Channel Map Prediction with Missing Location Information using Contrastive Learning and Graph Neural Networks"
+  },
+  {
+    "index": 4352,
+    "title": "Multiple Self-Supervised Representations Fusion Network for Automatic Song Aesthetics Evaluation"
+  },
+  {
+    "index": 4355,
+    "title": "Sequential Geodesic Adaptation for Auditory Attention Detection"
+  },
+  {
+    "index": 4382,
+    "title": "ICASSP 2026 CONVERGE Challenge: Multimodal Fingerprinting for UE Localization"
+  },
+  {
+    "index": 4390,
+    "title": "[ACVLAB] Solution for ICASSP 2026 Hyper-Object Challenge: Track 1"
+  },
+  {
+    "index": 4393,
+    "title": "Enhance, Then Separate: A Two-Stage Framework for Music Source Restoration"
+  },
+  {
+    "index": 4401,
+    "title": "A Unified Spoken Language Model with Injected Emotional-Attribution Thinking for Human-Like Interaction",
+    "reason": "15分钟内未收到有效ZIP，等待批量流程结束后核验"
+  },
+  {
+    "index": 4402,
+    "title": "EnTA-Align: Heterogeneous Model Ensemble with Dual-Path Fusion for Text-Audio Alignment",
+    "reason": "15分钟内未收到有效ZIP，等待批量流程结束后核验"
+  },
+  {
+    "index": 4403,
+    "title": "SNR-Progressive TF-GridNet for Single-Channel Low-SNR Radar Acoustic Speech Enhancement",
+    "reason": "15分钟内未收到有效ZIP，等待批量流程结束后核验"
+  },
+  {
+    "index": 4404,
+    "title": "The USTC-NERCSLIP System for the RASE Challenge",
+    "reason": "15分钟内未收到有效ZIP，等待批量流程结束后核验"
+  },
+  {
+    "index": 4405,
+    "title": "ME-CLAPScore: Modeling Semantic Alignment and Mismatch for Audio-Text Relevance Assessment",
+    "reason": "15分钟内未收到有效ZIP，等待批量流程结束后核验"
+  },
+  {
+    "index": 4406,
+    "title": "MOESCORE: Mixture-of-Experts-Based Text-Audio Relevance Score Prediction for Text-to-Audio System Evaluation",
+    "reason": "15分钟内未收到有效ZIP，等待批量流程结束后核验"
+  },
+  {
+    "index": 4407,
+    "title": "ICASSP 2026 Radar Acoustic Speech Enhancement (RASE) Challenge",
+    "reason": "15分钟内未收到有效ZIP，等待批量流程结束后核验"
+  },
+  {
+    "index": 4408,
+    "title": "XACLE Challenge 2026: The First X-to-Audio Alignment Challenge",
+    "reason": "15分钟内未收到有效ZIP，等待批量流程结束后核验"
+  },
+  {
+    "index": 4409,
+    "title": "Radar Acoustic Speech Enhancement Using Bilinear Decoding",
+    "reason": "15分钟内未收到有效ZIP，等待批量流程结束后核验"
+  },
+  {
+    "index": 4410,
+    "title": "Cross-Modal Semantic Alignment Via Ensemble Audio-Text Features for XACLE Challenge",
+    "reason": "15分钟内未收到有效ZIP，等待批量流程结束后核验"
+  },
+  {
+    "index": 4411,
+    "title": "RADARNet: Radar-Acoustic Denoising Alignment and Restoration Network for ICASSP 2026 RASE Challenge",
+    "reason": "15分钟内未收到有效ZIP，等待批量流程结束后核验"
+  },
+  {
+    "index": 4412,
+    "title": "PosSpec-Net: Enhancing Radar-Based Speech Signals via U-Nets and Positional Vectors",
+    "reason": "15分钟内未收到有效ZIP，等待批量流程结束后核验"
+  },
+  {
+    "index": 4413,
+    "title": "The tmu system for the XACLE challenge: Training large audio language models with CLAP pseudo-labels",
+    "reason": "15分钟内未收到有效ZIP，等待批量流程结束后核验"
+  },
+  {
+    "index": 4414,
+    "title": "GAP-URGENet: A Generative-Predictive Fusion Framework for Universal Speech Enhancement",
+    "reason": "15分钟内未收到有效ZIP，等待批量流程结束后核验"
+  },
+  {
+    "index": 4415,
+    "title": "The Vicomtech Score-Level Fusion System for the SASV Track of the WildSpoof Challenge 2026",
+    "reason": "15分钟内未收到有效ZIP，等待批量流程结束后核验"
+  },
+  {
+    "index": 4416,
+    "title": "Robust SASV System in Real-World Scenarios: A Fusion Approach for the WildSpoof Challenge",
+    "reason": "15分钟内未收到有效ZIP，等待批量流程结束后核验"
+  },
+  {
+    "index": 4417,
+    "title": "Three-Stage BSRNN for Universal Speech Enhancement and Data Curation Using a Large Pre-Trained Speech Restoration Model",
+    "reason": "15分钟内未收到有效ZIP，等待批量流程结束后核验"
+  },
+  {
+    "index": 4418,
+    "title": "A hybrid discriminative and generative system for Universal speech enhancement",
+    "reason": "15分钟内未收到有效ZIP，等待批量流程结束后核验"
+  },
+  {
+    "index": 4419,
+    "title": "Joint Optimization of ASV and CM Tasks: Btuef Team’s Submission for WildSpoof Challenge",
+    "reason": "15分钟内未收到有效ZIP，等待批量流程结束后核验"
+  },
+  {
+    "index": 4420,
+    "title": "Zero-Shot TTS with Enhanced Audio Prompts: BSC Submission for the 2026 WildSpoof Challenge TTS Track",
+    "reason": "15分钟内未收到有效ZIP，等待批量流程结束后核验"
+  },
+  {
+    "index": 4421,
+    "title": "Hybrid Speech Enhancement with Discriminative and Codec Token Prediction Models Guided by Cleaned SSL Features for the ICASSP 2026 Urgent Challenge",
+    "reason": "15分钟内未收到有效ZIP，等待批量流程结束后核验"
+  },
+  {
+    "index": 4422,
+    "title": "ICASSP 2026 Urgent Speech Enhancement Challenge",
+    "reason": "15分钟内未收到有效ZIP，等待批量流程结束后核验"
+  },
+  {
+    "index": 4423,
+    "title": "WildSpoof: advancing in-the-wild data in Text-to-Speech generation and Spoofing-aware automatic speaker verification",
+    "reason": "15分钟内未收到有效ZIP，等待批量流程结束后核验"
+  },
+  {
+    "index": 4424,
+    "title": "Robust TTS Training Via Self-Purifying Flow Matching for the Wildspoof 2026 TTS Track",
+    "reason": "15分钟内未收到有效ZIP，等待批量流程结束后核验"
+  },
+  {
+    "index": 4425,
+    "title": "X-Ray Near-Field Holotomography Reconstruction Using Implicit Neural Representations",
+    "reason": "15分钟内未收到有效ZIP，等待批量流程结束后核验"
+  },
+  {
+    "index": 4426,
+    "title": "Optimizing the iterative reprojection phase retrieval algorithm Via Angle sampling",
+    "reason": "15分钟内未收到有效ZIP，等待批量流程结束后核验"
+  },
+  {
+    "index": 4427,
+    "title": "Sparsity-based learning enables absorption contrast of mixed-contrast objects in tomographic X-ray near-field holography",
+    "reason": "15分钟内未收到有效ZIP，等待批量流程结束后核验"
+  },
+  {
+    "index": 4428,
+    "title": "Self-Supervised Deep Convolutional Reconstruction for Low-Light X-Ray Fluorescence Ghost Imaging",
+    "reason": "15分钟内未收到有效ZIP，等待批量流程结束后核验"
+  },
+  {
+    "index": 4429,
+    "title": "Regularizing INR with Diffusion Prior for Self-Supervised 3D Reconstruction OF Neutron Computed Tomography Data",
+    "reason": "15分钟内未收到有效ZIP，等待批量流程结束后核验"
+  },
+  {
+    "index": 4430,
+    "title": "Channel Estimation for Holographic MIMO Systems with Mutual Coupling Awareness",
+    "reason": "15分钟内未收到有效ZIP，等待批量流程结束后核验"
+  },
+  {
+    "index": 4431,
+    "title": "Linear Wmmse Mimo Precoding with One-Bit Dacs",
+    "reason": "15分钟内未收到有效ZIP，等待批量流程结束后核验"
+  },
+  {
+    "index": 4432,
+    "title": "Optimal Transmit Field Distribution for Partially Obstructed Continuous Radiating Surfaces in Near-Field Communication Systems",
+    "reason": "15分钟内未收到有效ZIP，等待批量流程结束后核验"
+  },
+  {
+    "index": 4433,
+    "title": "IRIS: Low-Complexity High-Efficiency Neural Network Codec for Real-Time Audio Transmission",
+    "reason": "15分钟内未收到有效ZIP，等待批量流程结束后核验"
+  },
+  {
+    "index": 4434,
+    "title": "Progressive Refinement Training for Low-Resource Neural Speech Coding and Enhancement",
+    "reason": "15分钟内未收到有效ZIP，等待批量流程结束后核验"
+  },
+  {
+    "index": 4435,
+    "title": "KD-Vocodec: A Low-Complexity Model for Joint Speech Coding And Enhancement Using Knowledge Distillation",
+    "reason": "15分钟内未收到有效ZIP，等待批量流程结束后核验"
+  },
+  {
+    "index": 4436,
+    "title": "VoCodec: An Efficient Lightweight Low-Bitrate Speech Codec",
+    "reason": "15分钟内未收到有效ZIP，等待批量流程结束后核验"
+  },
+  {
+    "index": 4437,
+    "title": "Low-Resource Audio Codec (LRAC): 2025 Challenge Description",
+    "reason": "15分钟内未收到有效ZIP，等待批量流程结束后核验"
+  },
+  {
+    "index": 4438,
+    "title": "Exploring Disentangled Neural Speech Codecs from Self-Supervised Representations",
+    "reason": "15分钟内未收到有效ZIP，等待批量流程结束后核验"
+  },
+  {
+    "index": 4439,
+    "title": "NanoCodec: Towards Low Bitrate and Low Complexity Real-Time Neural Audio Codec",
+    "reason": "15分钟内未收到有效ZIP，等待批量流程结束后核验"
+  },
+  {
+    "index": 4440,
+    "title": "PhoenixCodec: Taming Neural Speech Coding For Extreme Low-Resource Scenarios",
+    "reason": "15分钟内未收到有效ZIP，等待批量流程结束后核验"
+  },
+  {
+    "index": 4441,
+    "title": "Attention-Guided Audio Compression for Multimodal LLMs",
+    "reason": "15分钟内未收到有效ZIP，等待批量流程结束后核验"
+  },
+  {
+    "index": 4442,
+    "title": "Q-A3C2: Quantum Reinforcement Learning with Time-Series Dynamic Clustering for Adaptive ETF Stock Selection",
+    "reason": "15分钟内未收到有效ZIP，等待批量流程结束后核验"
+  },
+  {
+    "index": 4443,
+    "title": "Batched Training for QLSTM vs. QFWP: A System-Oriented Approach to EPC-Aware RMSE-DA",
+    "reason": "15分钟内未收到有效ZIP，等待批量流程结束后核验"
+  },
+  {
+    "index": 4444,
+    "title": "QuChaTeR: A Hybrid Quantum-Chaotic Temporal Framework for Earthquake Prediction",
+    "reason": "15分钟内未收到有效ZIP，等待批量流程结束后核验"
+  },
+  {
+    "index": 4445,
+    "title": "Quantum Super-Resolution by Adaptive Non-Local Observables",
+    "reason": "15分钟内未收到有效ZIP，等待批量流程结束后核验"
+  },
+  {
+    "index": 4446,
+    "title": "Quantum Fast Weight Programming for Time Series Prediction",
+    "reason": "15分钟内未收到有效ZIP，等待批量流程结束后核验"
+  },
+  {
+    "index": 4447,
+    "title": "Hybrid Continuous Variable Quantum Neural Network for Audio Classification",
+    "reason": "15分钟内未收到有效ZIP，等待批量流程结束后核验"
+  },
+  {
+    "index": 4448,
+    "title": "Iterative Matrix Product State Simulation for Scalable Grover’s Algorithm",
+    "reason": "15分钟内未收到有效ZIP，等待批量流程结束后核验"
+  },
+  {
+    "index": 4449,
+    "title": "Exploring Trainability of Quantum Fourier Models for a Data-Tailored Encoding Scheme",
+    "reason": "15分钟内未收到有效ZIP，等待批量流程结束后核验"
+  },
+  {
+    "index": 4450,
+    "title": "MPM-QIR: Measurement-Probability Matching for Quantum Image Representation and Compression via Variational Quantum Circuit",
+    "reason": "15分钟内未收到有效ZIP，等待批量流程结束后核验"
+  },
+  {
+    "index": 4451,
+    "title": "Neonatal EEG Seizure Prediction with Quantum-Inspired Continuous-Variable (Bosonic) Reservoir Computing",
+    "reason": "15分钟内未收到有效ZIP，等待批量流程结束后核验"
+  },
+  {
+    "index": 4452,
+    "title": "Induced Mood Shift and Cognitive Adaptation During free Play in a Changing Tonic Context",
+    "reason": "15分钟内未收到有效ZIP，等待批量流程结束后核验"
+  },
+  {
+    "index": 4453,
+    "title": "Parametric Analysis of Feature Specific Neural Coding During Music Imagery and Perception",
+    "reason": "15分钟内未收到有效ZIP，等待批量流程结束后核验"
+  },
+  {
+    "index": 4454,
+    "title": "VOICE2MODE: Phonation Mode Classification in Singing Using Self-Supervised Speech Models",
+    "reason": "15分钟内未收到有效ZIP，等待批量流程结束后核验"
+  },
+  {
+    "index": 4455,
+    "title": "Musitopia: Bridging Human Expertise and AI for Digital Music Therapy",
+    "reason": "15分钟内未收到有效ZIP，等待批量流程结束后核验"
+  },
+  {
+    "index": 4456,
+    "title": "An Explainable Attention-Based LSTM Fusion Network for Cognitive Load Prediction from Multimodal Physiological Signals",
+    "reason": "15分钟内未收到有效ZIP，等待批量流程结束后核验"
+  },
+  {
+    "index": 4457,
+    "title": "A Dynamic Numerical Model for Real-Time Estimation of Latent Cognitive States Using Oculomotor Metrics",
+    "reason": "15分钟内未收到有效ZIP，等待批量流程结束后核验"
+  },
+  {
+    "index": 4458,
+    "title": "Quantitative Nystagmus Diagnosis Through Portable Eye Tracking and Computer Vision Analysis",
+    "reason": "15分钟内未收到有效ZIP，等待批量流程结束后核验"
+  },
+  {
+    "index": 4459,
+    "title": "Incremental Feature Analysis for Reading Pattern Detection: A Systematic Evaluation of Behavioral Indicators in L2 Eye-Tracking",
+    "reason": "15分钟内未收到有效ZIP，等待批量流程结束后核验"
+  },
+  {
+    "index": 4460,
+    "title": "Bayesian Jammer Localization with a Hybrid CNN and Path-Loss Mixture of Experts",
+    "reason": "15分钟内未收到有效ZIP，等待批量流程结束后核验"
+  },
+  {
+    "index": 4461,
+    "title": "AI-Driven Fusion of Multimodal Channel Sounder Data for RF Heatmap Segmentation",
+    "reason": "15分钟内未收到有效ZIP，等待批量流程结束后核验"
+  },
+  {
+    "index": 4462,
+    "title": "From Echoes to Maps: Collaborative Learning of Unstructured Spaces with Multipaths and Graph Neural Network",
+    "reason": "15分钟内未收到有效ZIP，等待批量流程结束后核验"
+  },
+  {
+    "index": 4463,
+    "title": "SLAM-based Aircraft Positioning in Mixed LOS/NLOS with Prior Airport Map Information",
+    "reason": "15分钟内未收到有效ZIP，等待批量流程结束后核验"
+  },
+  {
+    "index": 4464,
+    "title": "Hypernetwork-Aided Unfolded D-Admm: Adaptive Parameterization for Distributed Optimization",
+    "reason": "15分钟内未收到有效ZIP，等待批量流程结束后核验"
+  },
+  {
+    "index": 4465,
+    "title": "Pavlovian-Inspired Cue-Outcome Association for Autonomous Agent Navigation",
+    "reason": "15分钟内未收到有效ZIP，等待批量流程结束后核验"
+  },
+  {
+    "index": 4466,
+    "title": "Goal-Oriented Distributed L-Mmse Estimation in Wireless Fading Channels by Gaussian Information Bottleneck",
+    "reason": "15分钟内未收到有效ZIP，等待批量流程结束后核验"
+  },
+  {
+    "index": 4467,
+    "title": "Localization Data Fusion for Near-Field Bistatic MIMO Radar Systems",
+    "reason": "15分钟内未收到有效ZIP，等待批量流程结束后核验"
+  },
+  {
+    "index": 4468,
+    "title": "Indoor Uav Tracking and Altitude Estimation Via Multiple Particle Filters with Partial Parameter Sharing",
+    "reason": "15分钟内未收到有效ZIP，等待批量流程结束后核验"
+  },
+  {
+    "index": 4469,
+    "title": "Active Inference-Driven World Modeling for Adaptive UAV Swarm Trajectory Design",
+    "reason": "15分钟内未收到有效ZIP，等待批量流程结束后核验"
+  },
+  {
+    "index": 4470,
+    "title": "Cooperative Multi-Modal Navigation for Heterogeneous Marine Robots",
+    "reason": "15分钟内未收到有效ZIP，等待批量流程结束后核验"
+  },
+  {
+    "index": 4471,
+    "title": "TempTwin: Digital Twin for Energy Efficient and Comfort-Oriented Indoor Temperature Forecasting",
+    "reason": "IEEE明确提示本批未下载：不在订阅范围或不符合批量PDF下载条件；整会结束后核验普通PDF"
+  },
+  {
+    "index": 4472,
+    "title": "Characterizing The Confounding Effects of Cybersickness On Mental Workload And Stress Detection Performance During An Immersive Virtual Reality Driving Task Using Electroencephalography",
+    "reason": "IEEE明确提示本批未下载：不在订阅范围或不符合批量PDF下载条件；整会结束后核验普通PDF"
+  },
+  {
+    "index": 4473,
+    "title": "Subjective Evaluation of Immersive Communication Systems: A Case Study on the Impact of Display Technology with FVV Live",
+    "reason": "IEEE明确提示本批未下载：不在订阅范围或不符合批量PDF下载条件；整会结束后核验普通PDF"
+  },
+  {
+    "index": 4474,
+    "title": "Neural and Clinical Effects of Multisensory Virtual Nature Immersion in PTSD",
+    "reason": "IEEE明确提示本批未下载：不在订阅范围或不符合批量PDF下载条件；整会结束后核验普通PDF"
+  },
+  {
+    "index": 4475,
+    "title": "On the Role of Spatial Features in Foundation-Model-Based Speaker Diarization",
+    "reason": "IEEE明确提示本批未下载：不在订阅范围或不符合批量PDF下载条件；整会结束后核验普通PDF"
+  },
+  {
+    "index": 4476,
+    "title": "Optimization of High Directivity Beamforming and WPE Method for Improved Speech Dereverberation",
+    "reason": "IEEE明确提示本批未下载：不在订阅范围或不符合批量PDF下载条件；整会结束后核验普通PDF"
+  },
+  {
+    "index": 4477,
+    "title": "Blind Direction-Dependent Acoustic Parameter Estimation Using Smart Glasses",
+    "reason": "IEEE明确提示本批未下载：不在订阅范围或不符合批量PDF下载条件；整会结束后核验普通PDF"
+  },
+  {
+    "index": 4478,
+    "title": "Eigenbeam-Feature-Based Multi-Order Encoder for Geometry-Agnostic Speech Enhancement",
+    "reason": "IEEE明确提示本批未下载：不在订阅范围或不符合批量PDF下载条件；整会结束后核验普通PDF"
+  },
+  {
+    "index": 4479,
+    "title": "Discriminating Real and Synthetic Super-Resolved Audio Samples Using Embedding-Based Classifiers",
+    "reason": "IEEE明确提示本批未下载：不在订阅范围或不符合批量PDF下载条件；整会结束后核验普通PDF"
+  },
+  {
+    "index": 4480,
+    "title": "Target-Speaker Voice Activity Detection with Chunk-Level Speaker Queries",
+    "reason": "IEEE明确提示本批未下载：不在订阅范围或不符合批量PDF下载条件；整会结束后核验普通PDF"
+  }
+]
